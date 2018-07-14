@@ -1,0 +1,12 @@
+section#login{
+	text-align: right;
+	
+	background-image: url('../../assets/images/img0.jpg');
+	background-size: cover;
+	background-position: center;
+	height: 100vh;
+}
+
+.loginForm{
+	margin-right: 20px;
+}
