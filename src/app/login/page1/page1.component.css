@@ -1,0 +1,15 @@
+.col-md-4{
+	padding: 0;
+}
+.col-md-8{
+	padding: 0;
+}
+
+.infoContent{
+	background-color: yellow;
+	height: 100vh;
+}
+.pageContent{
+	background-color: green;
+	height: 100vh;
+}
